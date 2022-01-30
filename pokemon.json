@@ -1,0 +1,24 @@
+{
+  "pokemon": [
+    "pikachu",
+    {
+      "id": "picachu"
+    },
+    {
+      "name": "bulbasaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/1/",
+      "id": "iThi5tI"
+    },
+    {
+      "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/5.png",
+      "name": "charmeleon",
+      "id": 5,
+      "abilities": " blaze solar-power",
+      "types": [
+        "fire"
+      ],
+      "hp": 58,
+      "attack": 64
+    }
+  ]
+}
